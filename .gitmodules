@@ -1,0 +1,3 @@
+[submodule "Assets/SubDir"]
+	path = Assets/SubDir
+	url = https://github.com/DeNA/unity-meta-check-ProjectSubDir
